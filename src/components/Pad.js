@@ -7,7 +7,7 @@ export default function Pad({ clip, volume }) {
     useEffect(() => {
         document.addEventListener('keydown', handleKeyPress);
         return () => { document.removeEventListener('keydown', handleKeyPress); }
-    }, [])
+    },)
 
     const handleKeyPress = (e) => {
         if (e.keyCode === clip.keyCode) {
