@@ -1,4 +1,7 @@
-# Getting Started with Create React App
+# live demonstration
+
+Click [here](https://drum-machine-sha.netlify.app/) to see a live version of this project and make some sound!
+<img width="845" alt="drum" src="https://github.com/ShalyDev/drum-machine/assets/108570881/47770d06-3b7b-4c84-878e-a7a4b686fd4c">
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
